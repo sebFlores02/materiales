@@ -1,30 +1,29 @@
 export const businessConfig = {
-  name: "Materiales Querétaro",
-  tagline: "Tu proveedor confiable en Querétaro",
-  description: "Somos una empresa líder en la venta de materiales de construcción en Querétaro. Con años de experiencia, ofrecemos productos de alta calidad y un servicio excepcional.",
+  name: "Grupo Materialero",
+  tagline: "Construimos contigo",
+  description: "En Grupo Materialero ofrecemos los mejores materiales para construcción. Nos destacamos por la calidad, el buen precio y la atención cercana que tu obra necesita.",
 
   contact: {
-    address: "Av. Principal #123, Centro, Querétaro",
-    phone: "(442) 123-4567",
-    whatsapp: "524421234567",
-    email: "info@materialesqueretaro.com",
+    phone: "(442) 550 3954",
+    whatsapp: "524425503954",
+    email: "grupomaterialero@gmail.com",
     hours: "Lun - Sáb: 8:00 AM - 6:00 PM"
   },
 
   features: [
     {
       title: "Calidad Garantizada",
-      description: "Todos nuestros productos cumplen con los más altos estándares de calidad.",
+      description: "Solo trabajamos con marcas y materiales que cumplen con estándares rigurosos.",
       icon: "check"
     },
     {
       title: "Entrega Rápida",
-      description: "Entregamos en toda la ciudad de Querétaro en tiempo récord.",
+      description: "Enviamos materiales en tiempo récord en toda la ciudad de Querétaro.",
       icon: "clock"
     },
     {
       title: "Atención Personalizada",
-      description: "Nuestro equipo está siempre disponible para asesorarte.",
+      description: "Te asesoramos como si fuera para nuestra propia casa.",
       icon: "users"
     }
   ],
@@ -68,6 +67,6 @@ export const businessConfig = {
   ],
 
   whatsapp: {
-    defaultMessage: "Hola, me interesan sus materiales de construcción en Querétaro"
+    defaultMessage: "Hola, me interesan los materiales de construcción de Grupo Materialero"
   }
 };

@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="text-center md:text-left">
           <h3 className="text-xl font-bold mb-2">{businessConfig.name}</h3>
           <p className="text-gray-300 mb-0">
-            Tu proveedor confiable de materiales de construcción en Querétaro.
+            Tu proveedor confiable de materiales de construcción.
           </p>
         </div>
         <div className="text-center md:text-right">
