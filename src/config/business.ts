@@ -29,14 +29,14 @@ export const businessConfig = {
   ],
 
   brands: [
-    { name: 'Holcim', image: '/holcim.png' },
-    { name: 'Cemex', image: '/cemex.png' },
-    { name: 'Truper', image: '/truper.png' },
-    { name: 'Ternium', image: '/ternium.png' },
-    { name: 'Deacero', image: '/deacero.png' },
-    { name: 'Vitromex', image: '/vitromex.png' },
-    { name: 'Interceramic', image: '/interceramic.png' },
-    { name: 'Comex', image: '/comex.png' },
+    { name: 'Holcim', image: '/marcas/holcim.png' },
+    { name: 'Cemex', image: '/marcas/cemex.png' },
+    { name: 'Truper', image: '/marcas/truper.png' },
+    { name: 'Ternium', image: '/marcas/ternium.png' },
+    { name: 'Deacero', image: '/marcas/deacero.png' },
+    { name: 'Vitromex', image: '/marcas/vitromex.png' },
+    { name: 'Interceramic', image: '/marcas/interceramic.png' },
+    { name: 'Comex', image: '/marcas/comex.png' },
   ],
 
   categories: [
