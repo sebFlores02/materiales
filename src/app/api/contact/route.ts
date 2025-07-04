@@ -22,7 +22,7 @@ export async function POST(req: NextRequest) {
     `;
 
     await resend.emails.send({
-      from: "onboarding@resend.dev",
+      from: "info@grupomaterialero.com",
       to: process.env.CONTACT_EMAIL || "grupomaterialero@gmail.com",
       subject: "Nuevo mensaje de contacto desde la web",
       html,
